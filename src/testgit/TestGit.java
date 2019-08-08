@@ -16,7 +16,7 @@ public class TestGit
      */
     public static void main(String[] args) 
     {
-        char c='A';
+        char c='B';
         char q=65;
         char w='\u0041';
         System.out.println(c+" "+q+" "+w);
